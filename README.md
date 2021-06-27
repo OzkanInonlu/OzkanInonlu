@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OzkanInonlu
-- 👀 I’m interested in Python, Java, C, and trying learn Arduino
-- 🌱 I’m currently learning Java JDBC
-- 💞️ I’m looking to collaborate on new things
+- 👀 I’m interested in Python, Java, C, Cyber Security, and trying learn Arduino
+- 🌱 I’m currently learning Java JDBC, and Arduino
+- 💞️ I’m looking to collaborate on new things and increasing my knowledge.
 - 📫 How to reach me ; @ ozkaanmax@gmail.com
 
 <!---

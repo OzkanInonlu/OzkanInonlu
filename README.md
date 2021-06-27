@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OzkanInonlu
-- 👀 I’m interested in Python and Java
+- 👀 I’m interested in Python, Java, C, and trying learn Arduino
 - 🌱 I’m currently learning Java JDBC
 - 💞️ I’m looking to collaborate on new things
 - 📫 How to reach me ; @ ozkaanmax@gmail.com

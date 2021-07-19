@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzkanInonlu
-- 👀 I’m interested in Python, Java, C, Cyber Security, and trying learn Arduino
-- 🌱 I’m currently learning Java and Arduino
+- 👀 I’m interested in Python, Java, C, and Cyber Security
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new things and increasing my knowledge.
 - 📫 How to reach me ; @ ozkaanmax@gmail.com
 

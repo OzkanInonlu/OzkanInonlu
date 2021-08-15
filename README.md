@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OzkanInonlu
-- 👀 I’m interested in Python, Java, C, and Cyber Security
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new things and increasing my knowledge.
+- 👀 I’m interested in Python, Java, Django, and Cyber Security
+- 🌱 I’m currently learning Java and Django
+- 💞️ I’m looking to collaborate on new things and broaden my knowledge.
 - 📫 How to reach me ; @ ozkaanmax@gmail.com
 
 <!---
